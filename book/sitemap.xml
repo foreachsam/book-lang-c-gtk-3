@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    
+    <url>
+     <loc>https://foreachsam.github.io/book-lang-c-gtk-3/book/</loc>
+     <lastmod>2016-10-28</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+        
+    <url>
+     <loc>https://foreachsam.github.io/book-lang-c-gtk-3/book/content/reference/manual/</loc>
+     <lastmod>2016-10-28</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>https://foreachsam.github.io/book-lang-c-gtk-3/book/content/deb-package/</loc>
+     <lastmod>2016-10-28</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://foreachsam.github.io/book-lang-c-gtk-3/book/content/deb-package/libgtk-3-bin/</loc>
+     <lastmod>2016-10-28</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>https://foreachsam.github.io/book-lang-c-gtk-3/book/content/command/gtk-launch/</loc>
+     <lastmod>2016-10-28</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+</urlset>
